@@ -1,0 +1,23 @@
+/* Styling using a class selector */
+.main-heading {
+    color: darkblue;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+/* Styling using an ID selector */
+#welcome-text {
+    color: gray;
+    font-size: 18px;
+    text-align: center;
+    margin: 10px;
+}
+
+/* Styling the image */
+.my-image {
+    display: block;
+    margin: 20px auto;
+    border: 3px solid blue;
+    padding: 5px;
+    border-radius: 8px;
+}
